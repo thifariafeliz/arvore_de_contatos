@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "stringo.h"
+#include "../include/stringo.h"
 
 #define STRINGO_INIT_SIZE 16
 #define STRINGO_GROWTH_FACTOR 2
